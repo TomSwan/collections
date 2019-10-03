@@ -1,0 +1,57 @@
+// index.adoc (Please read LICENSE.txt)
+
+:author: Tom Swan
+:email: <tom@tomswan.com>
+:pagetitle: Article by Tom Swan
+:source-highlighter: prettify
+:description: Official site for author Tom Swan
+:keywords: COMPUTER PROGRAMMING GUITAR MUSIC LINUX C C++ PASCAL 1802
+:copyright: © 2019 by Tom Swan
+:favicon: image/favicon.png
+:icons: font
+:stylesdir: css
+:stylesheet: readthedocs.css
+:linkcss:
+:idprefix:
+:idseparator: -
+:sectanchors:
+:figure-caption!:
+:imagesdir: image
+:cpp: C++
+:dot: .
+:ellipsis: …
+:hatch: #
+:pilcrow: ¶
+:star: *
+:tilde: ~
+:ul: _
+:youtube: https://www.youtube.com/user/TomSwanPlaysGuitar[YouTube]
+:github: https://github.com/TomSwan?tab=repositories[GitHub-hosted repositories]
+:adoc: http://www.asciidoctor.org/[Asciidoctor]
+:ruby: https://www.ruby-lang.org/en/[Ruby]
+:lilypond: http://lilypond.org/[Lilypond]
+:frescobaldi: http://www.frescobaldi.org/download.html[Frescobaldi]
+
+:toc:
+
++++
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="4HZQAX64W6TWE" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
++++
+
+:x: pdf
+:y: png
+:z: Click to enlarge
+
+- - -
+
+include::index.txt[]
+
++++
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57b23734d75ce630"></script>
++++

@@ -1,0 +1,96 @@
+// index.txt (Please read LICENSE.txt)
+
+== _Collections_
+
+by Tom Swan
+
+In this repository are collected ZIP files containing listings from some of the programming tutorials I wrote and published roughly between 1980 and 2001.
+
+image::composite.png[]
+
+The archived files here are exactly the same as those distributed with my books, or in some cases, sold separately by mail. Read on and select the ones you want. Or, download the entire repository to get them all.
+
+I doubt that I'll come across much to add here, but there are some old things that I might still dig up and resurrect one day. If I find anything, I'll push it in. As always, many thanks to readers and fans new and old for your support! 
+
+- - -
+
+// -----------------------------------------------------------------
+
+=== About the Downloads
+
+The downloads here are the original source files that were packaged with my books, and so may be out of date for current language implementations. However, most programs should compile and run correctly with few changes.
+
+TIP: Click on any book cover to see an expanded image.
+
+// -----------------------------------------------------------------
+=== Java 2 Just Click Solutions
+
+image::j2jc-cover-sm.png[Java 2 Just Click Solutions Cover, float="left", link="image/j2jc-cover-lg.png"]
+
+*`java2-just-click-solutions.zip`*: link:data/java2-just-click-solutions.zip[Download]
+
+<<top>>
+
+- - -
+
+// -----------------------------------------------------------------
+=== GNU C++ for Linux
+
+image::gcl-cover-sm.gif[GNU C++ for Linux Cover, float="left", link="image/gcl-cover-lg.gif"]
+
+*`gnu-cpp-for-linux.zip`*: link:data/gnu-cpp-for-linux.zip[Download]
+
+<<top>>
+
+- - -
+
+// -----------------------------------------------------------------
+=== Mastering Borland C++ 5
+
+image::mbc5-cover-sm.gif[Mastering Borland C++ 5 Cover, float="left", link="image/mbc5-cover-lg.gif"]
+
+*`mastering-borland-cpp5.zip`*: link:data/mastering-borland-cpp5.zip[Download]
+
+<<top>>
+
+- - -
+
+// -----------------------------------------------------------------
+=== Mastering Turbo Assembler (2nd Ed)
+
+image::mta-cover-sm.gif[Mastering Turbo Assembler Cover, float="left", link="image/mta-cover-lg.gif"]
+
+*`mastering-turbo-assembler2.zip`*: link:data/mastering-turbo-assembler2.zip[Download]
+
+<<top>>
+
+- - -
+
+// -----------------------------------------------------------------
+=== Programmer's Guide to The 1802 (my first book!)
+
+image::pg-1802-sm.png[Programmer's Guide to The 1802 Cover, float="left", link="image/pg-1802-lg.jpg"]
+
+*`programmers-guide-to-the-1802.zip`*: link:data/programmers-guide-to-the-1802.zip[Download]
+
+<<top>>
+
+- - -
+
+// -----------------------------------------------------------------
+=== Type and Learn C
+
+image::tlc-cover-sm.jpg[Type and Learn C Cover, float="left", link="image/tlc-cover-lg.jpg"]
+
+*`type-and-learn-c.zip`*: link:data/type-and-learn-c.zip[Download]
+
+<<top>>
+
+- - -
+
+// -----------------------------------------------------------------
+
+Website: http://www.tomswan.com
+
+GitHub: https://github.com/TomSwan/collections
+
