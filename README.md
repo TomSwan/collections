@@ -12,7 +12,7 @@ I doubt that I'll come across much to add here, but there are some old things th
 
 ## Continue reading...
 
-http://www.tomswan.com/pub/collections/
+http://www.tomswan.com/articles/collections.html
 
 ## Using the Files
 
