@@ -14,6 +14,7 @@ all: ${targets}
 	cp -r pdf build
 	cp -r source build
 	cp index.html build
+	rm -f index.html
 	cp index.txt build
 	cp LICENSE.txt build
 
