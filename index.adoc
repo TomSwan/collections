@@ -6,7 +6,7 @@
 :source-highlighter: prettify
 :description: Official site for author Tom Swan
 :keywords: COMPUTER PROGRAMMING GUITAR MUSIC LINUX C C++ PASCAL 1802
-:copyright: © 2019 by Tom Swan
+:copyright: © 2022 by Tom Swan
 :favicon: image/favicon.png
 :icons: font
 :stylesdir: css
