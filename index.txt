@@ -16,7 +16,7 @@ I doubt that I'll come across much to add here, but there are some old things th
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
 
 === About the Downloads
 
@@ -24,7 +24,10 @@ The downloads here are the original source files that were packaged with my book
 
 TIP: Click on any book cover to see an expanded image.
 
-// -----------------------------------------------------------------
+- - -
+
+// --------------------------------------------------
+
 === Java 2 Just Click Solutions
 
 image::j2jc-cover-sm.png[Java 2 Just Click Solutions Cover, float="left", link="image/j2jc-cover-lg.png"]
@@ -35,7 +38,8 @@ image::j2jc-cover-sm.png[Java 2 Just Click Solutions Cover, float="left", link="
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
+
 === GNU C++ for Linux
 
 image::gcl-cover-sm.gif[GNU C++ for Linux Cover, float="left", link="image/gcl-cover-lg.gif"]
@@ -46,7 +50,8 @@ image::gcl-cover-sm.gif[GNU C++ for Linux Cover, float="left", link="image/gcl-c
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
+
 === Mastering Borland C++ 5
 
 image::mbc5-cover-sm.gif[Mastering Borland C++ 5 Cover, float="left", link="image/mbc5-cover-lg.gif"]
@@ -57,7 +62,8 @@ image::mbc5-cover-sm.gif[Mastering Borland C++ 5 Cover, float="left", link="imag
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
+
 === Mastering Turbo Assembler (2nd Ed)
 
 image::mta-cover-sm.gif[Mastering Turbo Assembler Cover, float="left", link="image/mta-cover-lg.gif"]
@@ -68,7 +74,8 @@ image::mta-cover-sm.gif[Mastering Turbo Assembler Cover, float="left", link="ima
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
+
 === Programmer's Guide to The 1802 (my first book!)
 
 image::pg-1802-sm.png[Programmer's Guide to The 1802 Cover, float="left", link="image/pg-1802-lg.jpg"]
@@ -79,7 +86,8 @@ image::pg-1802-sm.png[Programmer's Guide to The 1802 Cover, float="left", link="
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
+
 === Type and Learn C
 
 image::tlc-cover-sm.jpg[Type and Learn C Cover, float="left", link="image/tlc-cover-lg.jpg"]
@@ -90,7 +98,7 @@ image::tlc-cover-sm.jpg[Type and Learn C Cover, float="left", link="image/tlc-co
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
 
 === Disk Masters
 
@@ -115,7 +123,7 @@ IMPORTANT: The files listed in this section are intended solely as REPLACEMENTS 
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
 
 ==== Disk Master Contents
 
@@ -273,9 +281,8 @@ tom@-->:../Disk Masters$ tree
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
 
 Website: https://www.tomswan.com
 
 GitHub: https://github.com/TomSwan/collections
-

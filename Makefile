@@ -11,12 +11,8 @@ all: ${targets}
 	cp -r css build
 	cp -r data build
 	cp -r image build
-	cp -r pdf build
-	cp -r source build
 	cp index.html build
 	rm -f index.html
-	cp index.txt build
-	cp LICENSE.txt build
 
 clean:
 	rm -v -f ${targets}
