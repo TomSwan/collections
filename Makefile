@@ -1,18 +1,14 @@
 # Makefile
 
-targets=index.html
+targets=collections.html
 
 all: ${targets}
 
-%.html : %.adoc index.txt index.adoc
-	asciidoctor $<
+%.html : %.adoc collections.txt collections.adoc
 	rm -rf build
 	mkdir build
-	cp -r css build
-	cp -r data build
-	cp -r image build
-	cp index.html build
-	rm -f index.html
+	asciidoctor -D build -s $<
+	asciidoctor $<
 
 clean:
 	rm -v -f ${targets}

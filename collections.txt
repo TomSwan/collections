@@ -1,6 +1,6 @@
-// index.txt (Please read LICENSE.txt)
+// collections.txt (Please read LICENSE.txt)
 
-== _Collections_
+== Collections
 
 by Tom Swan
 
@@ -8,7 +8,9 @@ In this repository are collected ZIP files containing listings from some of the 
 
 image::composite.png[]
 
-- Update 2019-12-12 -- Very happy to report that I now making available 12 disk masters to many of my published books that came with "floppy" disks in various formats. Fetch and pull in the new entries, or clone the repository to get them all. See <<disk-masters>> for a list of the new master images.
+- Update 2019-12-12 -- Very happy to report that I now making available 12 disk masters to many of my published books that came with "floppy" disks in various formats. Fetch and pull in the new entries, or clone the link:https://github.com/TomSwan/collections[GitHub repository] to get them all. See <<_disk_masters>> in this document for a list of the new master images.
+
+TIP: Individual ZIP Files: link:https://github.com/TomSwan/collections/tree/master/data[Open]
 
 The archived files here are exactly the same as those distributed with my books, or in some cases, sold separately by mail. Read on and select the ones you want. Or, download the entire repository to get them all.
 
@@ -120,6 +122,8 @@ IMPORTANT: The files listed in this section are intended solely as REPLACEMENTS 
  TLC.zip
 'Windows File Formats.zip'
 ----
+
+<<top>>
 
 - - -
 
@@ -279,10 +283,6 @@ tom@-->:../Disk Masters$ tree
     └── WAVECONV.LZH
 ----
 
+<<top>>
+
 - - -
-
-// --------------------------------------------------
-
-Website: https://www.tomswan.com
-
-GitHub: https://github.com/TomSwan/collections

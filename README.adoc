@@ -12,15 +12,13 @@ The archived files here are exactly the same as those distributed with my books,
 
 I doubt that I'll come across much to add here, but there are some old things that I might still dig up and resurrect one day. If I find anything, I'll push it in. As always, many thanks to readers and fans new and old for your support! 
 
-// -----------------------------------------------------------------
-
 == Continue reading...
 
 https://www.tomswan.com/articles/collections.html
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
 
 == Using the Files
 
@@ -28,7 +26,7 @@ Read the full article to select individual archives. Or, download or clone the r
 
 - - -
 
-// -----------------------------------------------------------------
+// --------------------------------------------------
 
 == More Information
 

@@ -1,19 +1,9 @@
-// index.adoc (Please read LICENSE.txt)
+// collections.adoc (Please read LICENSE.txt)
 
 :author: Tom Swan
 :email: <tom@tomswan.com>
-:pagetitle: Article by Tom Swan
-:source-highlighter: prettify
-:description: Official site for author Tom Swan
-:keywords: COMPUTER PROGRAMMING GUITAR MUSIC LINUX C C++ PASCAL 1802
 :copyright: © 2022 by Tom Swan
-:favicon: image/favicon.png
 :icons: font
-:stylesdir: css
-:stylesheet: readthedocs.css
-:linkcss:
-:idprefix:
-:idseparator: -
 :sectanchors:
 :figure-caption!:
 :imagesdir: image
@@ -34,15 +24,10 @@
 
 :toc:
 
+anchor:top[]
+
 :x: pdf
 :y: png
 :z: Click to enlarge
 
-- - -
-
-include::index.txt[]
-
-//+++
-//<!-- Go to www.addthis.com/dashboard to customize your tools -->
-//<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57b23734d75ce630"></script>
-//+++
+include::collections.txt[]
