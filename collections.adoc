@@ -26,8 +26,4 @@
 
 anchor:top[]
 
-:x: pdf
-:y: png
-:z: Click to enlarge
-
 include::collections.txt[]

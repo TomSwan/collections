@@ -1,15 +1,16 @@
 # Makefile
 
-targets=collections.html
+project=collections
+compiler=asciidoctor
+blddir=~/sites/tomswan/layouts/partials/pub
+
+targets=$(project).html
 
 all: ${targets}
 
-%.html : %.adoc collections.txt collections.adoc
-	rm -rf build
-	mkdir build
-	asciidoctor -D build -s $<
-	asciidoctor $<
+%.html : %.adoc $(project).txt $(project).adoc
+	$(compiler) -D $(blddir) -s $<
+	$(compiler) $<
 
 clean:
 	rm -v -f ${targets}
-	rm -rf build
