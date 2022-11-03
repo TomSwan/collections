@@ -5,8 +5,8 @@
 :copyright: © 2022 by Tom Swan
 :icons: font
 :sectanchors:
-:figure-caption!:
 :imagesdir: image
+:figure-caption!:
 :cpp: C++
 :dot: .
 :ellipsis: …
