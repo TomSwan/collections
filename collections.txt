@@ -1,0 +1,302 @@
+// collections.txt (Please read LICENSE.txt)
+
+== Collections
+
+by Tom Swan
+
+In this repository are collected ZIP files containing listings from programming tutorials I wrote and published roughly between 1980 and 2001.
+
+image::composite.png[]
+
+- Update 2024-10-19 -- I am now extracting individual source code listing files from some of the older floppy disk images in the database. For example, _Learning C++,_ one of my more popular books of old, now includes in its ZIP archive the original two floppy disk images plus new folder `LCPP` containing all of the individual listing files as they would be after installing the diskettes. I was unable to provide these files because all the old sources had been destroyed many years ago, and like many of you, up until now, I was unable to run the original installation programs under newer versions of Microsoft Windows--until I discovered the following information, that is.
+
+NOTE: To run old DOS .EXE and .COM programs found in some of these archives, you either need a vintage computer running MS-DOS or an early Windows, or you can do as I did: run the link::https://www.winehq.org/[Wine] and link::https://www.dosbox.com/[DOSbox] emulators in Linux. I used those tools, for example, to run some of the installation programs found in some older ZIP archive disk images.
+
+- Update 2019-12-12 -- Very happy to report that I now making available 12 disk masters to many of my published books that came with "floppy" disks in various formats. Fetch and pull in the new entries, or clone the link:https://github.com/TomSwan/collections[GitHub repository] to get them all. See <<_disk_masters>> in this document for a list of the new master images.
+
+TIP: Individual ZIP Files: link:https://github.com/TomSwan/collections/tree/master/data[Open]
+
+The archived files here are exactly the same as those distributed with my books, or in some cases, sold separately by mail. Read on and select the ones you want. Or, download the entire repository to get them all.
+
+I doubt that I'll come across much to add here, but there are some old things that I might still dig up and resurrect one day. If I find anything, I'll push it in. As always, many thanks to readers and fans new and old for your support! 
+
+- - -
+
+// --------------------------------------------------
+
+=== About the Downloads
+
+The downloads here are the original source files that were packaged with my books, and so may be out of date for current language implementations. However, most programs should compile and run correctly with few changes.
+
+TIP: Click on any book cover to see an expanded image.
+
+- - -
+
+// --------------------------------------------------
+
+=== Java 2 Just Click Solutions
+
+image::j2jc-cover-sm.png[Java 2 Just Click Solutions Cover, float="left", link="image/j2jc-cover-lg.png"]
+
+*`java2-just-click-solutions.zip`*: link:data/java2-just-click-solutions.zip[Download]
+
+<<top>>
+
+- - -
+
+// --------------------------------------------------
+
+=== GNU C++ for Linux
+
+image::gcl-cover-sm.gif[GNU C++ for Linux Cover, float="left", link="image/gcl-cover-lg.gif"]
+
+*`gnu-cpp-for-linux.zip`*: link:data/gnu-cpp-for-linux.zip[Download]
+
+<<top>>
+
+- - -
+
+// --------------------------------------------------
+
+=== Learning C++
+
+*`learning-c++`*: link:data/learning-c++.zip[Download]
+
+<<top>>
+
+- - -
+
+// --------------------------------------------------
+
+=== Mastering Borland C++ 5
+
+image::mbc5-cover-sm.gif[Mastering Borland C++ 5 Cover, float="left", link="image/mbc5-cover-lg.gif"]
+
+*`mastering-borland-cpp5.zip`*: link:data/mastering-borland-cpp5.zip[Download]
+
+<<top>>
+
+- - -
+
+// --------------------------------------------------
+
+=== Mastering Turbo Assembler (2nd Ed)
+
+image::mta-cover-sm.gif[Mastering Turbo Assembler Cover, float="left", link="image/mta-cover-lg.gif"]
+
+*`mastering-turbo-assembler2.zip`*: link:data/mastering-turbo-assembler2.zip[Download]
+
+<<top>>
+
+- - -
+
+// --------------------------------------------------
+
+=== Programmer's Guide to The 1802 (my first book!)
+
+image::pg-1802-sm.png[Programmer's Guide to The 1802 Cover, float="left", link="image/pg-1802-lg.jpg"]
+
+*`programmers-guide-to-the-1802.zip`*: link:data/programmers-guide-to-the-1802.zip[Download]
+
+<<top>>
+
+- - -
+
+// --------------------------------------------------
+
+=== Type and Learn C
+
+image::tlc-cover-sm.jpg[Type and Learn C Cover, float="left", link="image/tlc-cover-lg.jpg"]
+
+*`type-and-learn-c.zip`*: link:data/type-and-learn-c.zip[Download]
+
+<<top>>
+
+- - -
+
+// --------------------------------------------------
+
+=== Disk Masters
+
+Following is a list of 12 new ZIP files added to the collection 2019-12-12. These files unpack to the byte-for-byte masters on disks in various formats for the associated books. 
+
+IMPORTANT: The files listed in this section are intended solely as REPLACEMENTS for original media as a service to readers needing to RECOVER their lost data. Please consult the original texts for instructions on using the information in these files.
+
+----
+'BP 7 1993.zip'
+'Code Secrets.zip'
+'Learning C++.zip'
+'MBC 1992.zip'
+'MBC 4.5.zip'
+'MTA 2 ED.zip'
+'MTP 5.5.zip'
+'MWP BC++4.zip'
+'OWP 2.0.zip'
+'Primer 1992.zip'
+ TLC.zip
+'Windows File Formats.zip'
+----
+
+<<top>>
+
+- - -
+
+// --------------------------------------------------
+
+==== Disk Master Contents
+
+----
+tom@-->:../Disk Masters$ tree
+.
+├── BP 7 1993
+│   ├── COMMON.LZH
+│   ├── INSPRO.LZH
+│   ├── INSTALL.BIN
+│   ├── INSTALL.EXE
+│   ├── INSTALL.INF
+│   ├── INSTLIB.DLL
+│   ├── LHARC.EXE
+│   ├── LHARC.LZH
+│   ├── MANCALA.LZH
+│   ├── OWLSPY.LZH
+│   ├── PART2.LZH
+│   ├── PART3.LZH
+│   ├── PART4.LZH
+│   ├── PART5.LZH
+│   ├── PIECTRL.LZH
+│   ├── README.TXT
+│   ├── SYSCOLOR.LZH
+│   └── WLIST.LZH
+├── Code Secrets
+│   ├── BONUS.LZH
+│   ├── LHA.EXE
+│   ├── LHA.LZH
+│   ├── README.TXT
+│   ├── SECRETS.LZH
+│   └── UNPACK.BAT
+├── Learning C++
+│   ├── Disk 1
+│   │   ├── DISK.ID
+│   │   ├── INSTALL.DAT
+│   │   ├── INSTALL.EXE
+│   │   ├── LCPP.001
+│   │   ├── READ.EXE
+│   │   └── README.TXT
+│   └── Disk 2
+│       ├── DISK.ID
+│       └── LCPP.002
+├── MBC 1992
+│   ├── ANSWERS1.LZH
+│   ├── ANSWERS2.LZH
+│   ├── C05.LZH
+│   ├── C06.LZH
+│   ├── C07.LZH
+│   ├── C08.LZH
+│   ├── C09.LZH
+│   ├── C10.LZH
+│   ├── C11.LZH
+│   ├── C12.LZH
+│   ├── C13.LZH
+│   ├── C14.LZH
+│   ├── C15.LZH
+│   ├── C16.LZH
+│   ├── C17.LZH
+│   ├── C18.LZH
+│   ├── C19.LZH
+│   ├── C20.LZH
+│   ├── C21.LZH
+│   ├── C22.LZH
+│   ├── EMS.LZH
+│   ├── LHARC.EXE
+│   ├── LHARC.LZH
+│   ├── README
+│   ├── ROOT.LZH
+│   └── UNPACK.BAT
+├── MBC 4.5
+│   ├── INSTALL.BAT
+│   ├── MBC.EXE
+│   └── README.TXT
+├── MTA 2 ED
+│   ├── INSTALL.BAT
+│   ├── MTA.EXE
+│   └── README.TXT
+├── MTP 5.5
+│   ├── ANSWERS.ARC
+│   ├── C01.ARC
+│   ├── C02.ARC
+│   ├── C03.ARC
+│   ├── C04.ARC
+│   ├── C05.ARC
+│   ├── C06.ARC
+│   ├── C07.ARC
+│   ├── C08.ARC
+│   ├── C09.ARC
+│   ├── C10.ARC
+│   ├── C11.ARC
+│   ├── C12.ARC
+│   ├── C13.ARC
+│   ├── C14.ARC
+│   ├── C15.ARC
+│   ├── C16.ARC
+│   ├── GC.ARC
+│   ├── MANCALA.ARC
+│   ├── README.TXT
+│   └── TCUNIT.ARC
+├── MWP BC++4
+│   ├── MWP.EXE
+│   └── README.TXT
+├── OWP 2.0
+│   ├── DISK1.DSK
+│   ├── FILELIST.DOC
+│   ├── INSTALL.EXE
+│   ├── INSTALL.PIF
+│   ├── OWL2PROG.EXE
+│   ├── README
+│   └── README.COM
+├── Primer 1992
+│   ├── ANSWERS.LZH
+│   ├── C01.LZH
+│   ├── C02.LZH
+│   ├── C03.LZH
+│   ├── C04.LZH
+│   ├── C05.LZH
+│   ├── C06.LZH
+│   ├── C07.LZH
+│   ├── C08.LZH
+│   ├── C09.LZH
+│   ├── INCLUDE.LZH
+│   ├── LHARC.EXE
+│   ├── LHARC.LZH
+│   ├── LIB.LZH
+│   ├── READ.EXE
+│   ├── README
+│   ├── README.BAT
+│   ├── ROOT.LZH
+│   └── UNPACK.BAT
+├── TLC
+│   ├── INSTALL.BAT
+│   ├── LICENSE.TXT
+│   ├── README
+│   ├── README.COM
+│   ├── TCLITE.ZIP
+│   ├── TLC.EXE
+│   └── UNZIP.EXE
+└── Windows File Formats
+    ├── FILES.TXT
+    ├── FMONST1.LZH
+    ├── FMONST2.LZH
+    ├── INSTALL.BIN
+    ├── INSTALL.BMP
+    ├── INSTALL.DLL
+    ├── INSTALL.EXE
+    ├── INSTALL.INF
+    ├── LZSSLIB.LZH
+    ├── PARTS.LZH
+    ├── README.TXT
+    ├── TTFSPEC.LZH
+    └── WAVECONV.LZH
+----
+
+<<top>>
+
+- - -

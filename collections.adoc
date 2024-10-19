@@ -1,0 +1,29 @@
+// collections.adoc (Please read LICENSE.txt)
+
+:author: Tom Swan
+:email: <tom@tomswan.com>
+:copyright: © 2022 by Tom Swan
+:icons: font
+:sectanchors:
+:imagesdir: image
+:figure-caption!:
+:cpp: C++
+:dot: .
+:ellipsis: …
+:hatch: #
+:pilcrow: ¶
+:star: *
+:tilde: ~
+:ul: _
+:youtube: https://www.youtube.com/user/TomSwanPlaysGuitar[YouTube]
+:github: https://github.com/TomSwan?tab=repositories[GitHub-hosted repositories]
+:adoc: http://www.asciidoctor.org/[Asciidoctor]
+:ruby: https://www.ruby-lang.org/en/[Ruby]
+:lilypond: http://lilypond.org/[Lilypond]
+:frescobaldi: http://www.frescobaldi.org/download.html[Frescobaldi]
+
+:toc:
+
+anchor:top[]
+
+include::collections.txt[]
