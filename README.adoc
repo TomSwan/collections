@@ -8,6 +8,12 @@ image::image/composite.png[]
 
 Locate and download individual ZIP files from the `data` subfolder, or clone or download the entire repository. Unpack ZIP files to extract archived source code listings and other files.
 
+- Update 2026-08-06 -- By request, Mastering Turbo Pascal 5.5 source files are now unpacked from their ARC archives and can now be edited and used directly. Download MTP 5.5.zip and unpack. Inside there are two folders:
+
+* disk1 -- original diskette contents
+* source -- unpacked Pascal source files in subfolders by chapter or topic
+* README.txt -- original text 
+
 - Update 2024-10-19 -- I am now extracting individual source code listing files from some of the older floppy disk images in the database. For example, _Learning C++,_ one of my more popular books of old, now includes in its ZIP archive the original two floppy disk images plus new folder `LCPP` containing all of the individual listing files as they would be after installing the diskettes. I was unable to provide these files because all the old sources had been destroyed many years ago, and like many of you, up until now, I was unable to run the original installation programs under newer versions of Microsoft Windows--until I discovered the following information, that is.
 
 NOTE: To run old DOS .EXE and .COM programs found in some of these archives, you either need a vintage computer running MS-DOS or an early Windows, or you can do as I did: run the link:https://www.winehq.org/[Wine] and link:https://www.dosbox.com/[DOSbox] emulators in Linux. I used those tools, for example, to run some of the installation programs found in some older ZIP archive disk images.
